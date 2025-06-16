@@ -13,7 +13,7 @@ mongoimport --db drogueria_db --collection proveedores --file proveedores.json -
 
 
 - Consultas:
- 1. db.clientes.find({ nombre: { $regex: "^Ana", $options: "i" } })
+1. db.clientes.find({ nombre: { $regex: "^Ana", $options: "i" } })
    - Busca clientes cuyos nombres comienzan con "Ana"
 
 2. db.clientes.find({ correo: { $regex: "@hotmail\\.com$", $options: "i" } })
@@ -44,7 +44,7 @@ mongoimport --db drogueria_db --collection proveedores --file proveedores.json -
     - Busca productos con código de barras que comienzan con 789
 
 11. db.clientes.find({ ciudad: { $regex: ".*a$", $options: "i" } })
-    - Filtra clientes cuyas ciudades terminan en "a" (ej. Barranquilla)
+    - Filtra clientes cuyas ciudades terminan en "a"
 
 12. db.empleados.find({ turno: { $regex: "Mañana|Noche", $options: "i" } })
     - Encuentra empleados que trabajan en turno mañana o noche
@@ -62,7 +62,7 @@ mongoimport --db drogueria_db --collection proveedores --file proveedores.json -
     - Busca proveedores que suministran productos que contengan "Paracetamol"
 
 17. db.clientes.find({ correo: { $regex: "^[a-z]+\\.[a-z]+@drogueria\\.com$", $options: "i" } })
-    - Filtra clientes con correo institucional siguiendo formato
+    - Filtra clientes con correo institucional siguiendo formato nombre.apellido@drogueria.com
 
 18. db.empleados.find({ cargo: { $regex: "Farmacéutico", $options: "i" } })
     - Encuentra empleados con cargo que contiene "Farmacéutico"
@@ -87,7 +87,6 @@ mongoimport --db drogueria_db --collection proveedores --file proveedores.json -
 
 25. db.pedidos.find({ estado: { $regex: "^Entregado$", $options: "i" }, fecha: { $regex: "^2025-06" } })
     - Busca pedidos entregados en junio de 2025
-
 
 
   
