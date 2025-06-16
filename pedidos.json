@@ -1,0 +1,95 @@
+[
+  {
+    "_id": "OID123",
+    "cliente_id": "Juan Pérez",
+    "productos": [
+      { "nombre": "Ibuprofeno 400mg", "cantidad": 2 },
+      { "nombre": "Vitamina C 1000mg", "cantidad": 1 }
+    ],
+    "fecha": "2025-06-10",
+    "estado": "Entregado"
+  },
+  {
+    "_id": "OID124",
+    "cliente_id": "Juan Pérez",
+    "productos": [
+      { "nombre": "Paracetamol 500mg", "cantidad": 3 }
+    ],
+    "fecha": "2025-06-15",
+    "estado": "Pendiente"
+  },
+  {
+    "_id": "OID125",
+    "cliente_id": "Ana Martínez",
+    "productos": [
+      { "nombre": "Jarabe para la tos", "cantidad": 1 }
+    ],
+    "fecha": "2025-06-12",
+    "estado": "Entregado"
+  },
+  {
+    "_id": "OID126",
+    "cliente_id": "María Rodríguez",
+    "productos": [
+      { "nombre": "Amoxicilina 500mg", "cantidad": 2 }
+    ],
+    "fecha": "2025-06-18",
+    "estado": "Entregado"
+  },
+  {
+    "_id": "OID127",
+    "cliente_id": "María Rodríguez",
+    "productos": [
+      { "nombre": "Cremagel para heridas", "cantidad": 1 },
+      { "nombre": "Antiséptico en spray", "cantidad": 1 }
+    ],
+    "fecha": "2025-06-20",
+    "estado": "Cancelado"
+  },
+  {
+    "_id": "OID128",
+    "cliente_id": "Natalia Castro",
+    "productos": [
+      { "nombre": "Suero oral", "cantidad": 2 }
+    ],
+    "fecha": "2025-06-22",
+    "estado": "Entregado"
+  },
+  {
+    "_id": "OID129",
+    "cliente_id": "Pedro Sánchez",
+    "productos": [
+      { "nombre": "Omeprazol 20mg", "cantidad": 1 }
+    ],
+    "fecha": "2025-06-25",
+    "estado": "Pendiente"
+  },
+  {
+    "_id": "OID130",
+    "cliente_id": "Jorge Herrera",
+    "productos": [
+      { "nombre": "Vitamina C 1000mg", "cantidad": 3 }
+    ],
+    "fecha": "2025-06-28",
+    "estado": "Entregado"
+  },
+  {
+    "_id": "OID131",
+    "cliente_id": "Sandra López",
+    "productos": [
+      { "nombre": "Ibuprofeno 400mg", "cantidad": 2 }
+    ],
+    "fecha": "2025-06-29",
+    "estado": "Entregado"
+  },
+  {
+    "_id": "OID132",
+    "cliente_id": "Luisa Morales",
+    "productos": [
+      { "nombre": "Crema para hemorroides", "cantidad": 1 }
+    ],
+    "fecha": "2025-06-30",
+    "estado": "Pendiente"
+  }
+]
+

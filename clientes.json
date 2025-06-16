@@ -1,0 +1,73 @@
+[
+  {
+    "nombre": "Juan Pérez",
+    "correo": "juan.perez@example.com",
+    "ciudad": "Bogotá",
+    "telefono": "3001234567",
+    "historial_compras": ["OID123", "OID124"]
+  },
+  {
+    "nombre": "Ana Martínez",
+    "correo": "ana.martinez@gmail.com",
+    "ciudad": "Medellín",
+    "telefono": "3109876543",
+    "historial_compras": ["OID125"]
+  },
+  {
+    "nombre": "Carlos Gómez",
+    "correo": "carlos.gomez@hotmail.com",
+    "ciudad": "Cali",
+    "telefono": "3123456789",
+    "historial_compras": []
+  },
+  {
+    "nombre": "María Rodríguez",
+    "correo": "maria.rodriguez@gmail.com",
+    "ciudad": "Barranquilla",
+    "telefono": "3151234567",
+    "historial_compras": ["OID126", "OID127"]
+  },
+  {
+    "nombre": "Luis Fernández",
+    "correo": "luis.fernandez@outlook.com",
+    "ciudad": "Cartagena",
+    "telefono": "3009876543",
+    "historial_compras": []
+  },
+  {
+    "nombre": "Natalia Castro",
+    "correo": "natalia.castro@gmail.com",
+    "ciudad": "Bogotá",
+    "telefono": "3201234567",
+    "historial_compras": ["OID128"]
+  },
+  {
+    "nombre": "Pedro Sánchez",
+    "correo": "pedro.sanchez@example.com",
+    "ciudad": "Medellín",
+    "telefono": "3112223333",
+    "historial_compras": ["OID129"]
+  },
+  {
+    "nombre": "Sandra López",
+    "correo": "sandra.lopez@gmail.com",
+    "ciudad": "Bucaramanga",
+    "telefono": "3159876543",
+    "historial_compras": []
+  },
+  {
+    "nombre": "Jorge Herrera",
+    "correo": "jorge.herrera@example.com",
+    "ciudad": "Pereira",
+    "telefono": "3005556666",
+    "historial_compras": ["OID130"]
+  },
+  {
+    "nombre": "Luisa Morales",
+    "correo": "luisa.morales@gmail.com",
+    "ciudad": "Cúcuta",
+    "telefono": "3142223333",
+    "historial_compras": []
+  }
+]
+

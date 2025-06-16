@@ -1,0 +1,73 @@
+[
+  {
+    "nombre": "Laboratorios Genéricos S.A.",
+    "contacto": "contacto@lgsalud.com",
+    "telefono": "3109998888",
+    "ciudad": "Medellín",
+    "productos_suministrados": ["Paracetamol 500mg", "Amoxicilina 500mg", "Vitamina C 1000mg"]
+  },
+  {
+    "nombre": "Farmacéuticos Unidos",
+    "contacto": "info@farmaceuticosunidos.com",
+    "telefono": "3118887777",
+    "ciudad": "Bogotá",
+    "productos_suministrados": ["Ibuprofeno 400mg", "Omeprazol 20mg"]
+  },
+  {
+    "nombre": "Distribuciones Salud Total",
+    "contacto": "ventas@saludtotal.com",
+    "telefono": "3127776666",
+    "ciudad": "Cali",
+    "productos_suministrados": ["Jarabe para la tos", "Suero oral"]
+  },
+  {
+    "nombre": "Laboratorios Naturales",
+    "contacto": "contacto@laboratoriosnaturales.co",
+    "telefono": "3105554444",
+    "ciudad": "Barranquilla",
+    "productos_suministrados": ["Cremagel para heridas", "Antiséptico en spray"]
+  },
+  {
+    "nombre": "Proveedores Médicos SAS",
+    "contacto": "contacto@proveedoresmedicos.com",
+    "telefono": "3103332222",
+    "ciudad": "Medellín",
+    "productos_suministrados": ["Crema para hemorroides", "Omeprazol 20mg"]
+  },
+  {
+    "nombre": "Distribuidora Farma Plus",
+    "contacto": "contacto@farmaplus.com",
+    "telefono": "3111112222",
+    "ciudad": "Bogotá",
+    "productos_suministrados": ["Paracetamol 500mg", "Ibuprofeno 400mg"]
+  },
+  {
+    "nombre": "Salud y Vida S.A.",
+    "contacto": "info@saludyvida.com",
+    "telefono": "3107778888",
+    "ciudad": "Cartagena",
+    "productos_suministrados": ["Vitamina C 1000mg", "Suero oral"]
+  },
+  {
+    "nombre": "Laboratorios del Norte",
+    "contacto": "contacto@labnorte.com",
+    "telefono": "3106665555",
+    "ciudad": "Bucaramanga",
+    "productos_suministrados": ["Amoxicilina 500mg", "Jarabe para la tos"]
+  },
+  {
+    "nombre": "FarmaDirecta",
+    "contacto": "ventas@farmadirecta.com",
+    "telefono": "3124443333",
+    "ciudad": "Pereira",
+    "productos_suministrados": ["Ibuprofeno 400mg", "Antiséptico en spray"]
+  },
+  {
+    "nombre": "Proveeduría Médica Integral",
+    "contacto": "contacto@pmi.com",
+    "telefono": "3112221111",
+    "ciudad": "Cúcuta",
+    "productos_suministrados": ["Crema para hemorroides", "Suero oral"]
+  }
+]
+

@@ -1,0 +1,93 @@
+[
+  {
+    "nombre": "Paracetamol 500mg",
+    "descripcion": "Analgésico y antipirético",
+    "categoria": "Medicamento",
+    "precio": 5.99,
+    "codigo_barras": "1234567890123",
+    "fecha_vencimiento": "2026-08-01",
+    "etiquetas": ["analgésico", "sin receta", "tableta"]
+  },
+  {
+    "nombre": "Ibuprofeno 400mg",
+    "descripcion": "Antiinflamatorio no esteroideo",
+    "categoria": "Medicamento",
+    "precio": 7.50,
+    "codigo_barras": "2345678901234",
+    "fecha_vencimiento": "2025-12-15",
+    "etiquetas": ["antiinflamatorio", "sin receta", "tableta"]
+  },
+  {
+    "nombre": "Amoxicilina 500mg",
+    "descripcion": "Antibiótico para infecciones bacterianas",
+    "categoria": "Medicamento",
+    "precio": 12.00,
+    "codigo_barras": "3456789012345",
+    "fecha_vencimiento": "2026-03-20",
+    "etiquetas": ["antibiótico", "con receta", "cápsula"]
+  },
+  {
+    "nombre": "Vitamina C 1000mg",
+    "descripcion": "Suplemento vitamínico",
+    "categoria": "Suplemento",
+    "precio": 15.25,
+    "codigo_barras": "4567890123456",
+    "fecha_vencimiento": "2027-01-01",
+    "etiquetas": ["vitamina", "suplemento", "tableta"]
+  },
+  {
+    "nombre": "Cremagel para heridas",
+    "descripcion": "Gel antibacteriano para heridas superficiales",
+    "categoria": "Cuidado personal",
+    "precio": 8.30,
+    "codigo_barras": "5678901234567",
+    "fecha_vencimiento": "2026-06-30",
+    "etiquetas": ["antibacterial", "gel", "sin receta"]
+  },
+  {
+    "nombre": "Jarabe para la tos",
+    "descripcion": "Alivio para la tos seca",
+    "categoria": "Medicamento",
+    "precio": 10.00,
+    "codigo_barras": "6789012345678",
+    "fecha_vencimiento": "2025-11-11",
+    "etiquetas": ["jarabe", "sin receta", "líquido"]
+  },
+  {
+    "nombre": "Omeprazol 20mg",
+    "descripcion": "Medicamento para acidez estomacal",
+    "categoria": "Medicamento",
+    "precio": 9.75,
+    "codigo_barras": "7890123456789",
+    "fecha_vencimiento": "2026-05-05",
+    "etiquetas": ["antiácido", "con receta", "tableta"]
+  },
+  {
+    "nombre": "Suero oral",
+    "descripcion": "Solución para hidratación",
+    "categoria": "Suplemento",
+    "precio": 6.50,
+    "codigo_barras": "8901234567890",
+    "fecha_vencimiento": "2026-09-10",
+    "etiquetas": ["hidratación", "líquido", "sin receta"]
+  },
+  {
+    "nombre": "Crema para hemorroides",
+    "descripcion": "Tratamiento tópico para hemorroides",
+    "categoria": "Cuidado personal",
+    "precio": 13.00,
+    "codigo_barras": "9012345678901",
+    "fecha_vencimiento": "2025-10-30",
+    "etiquetas": ["crema", "sin receta", "tratamiento"]
+  },
+  {
+    "nombre": "Antiséptico en spray",
+    "descripcion": "Spray desinfectante para piel",
+    "categoria": "Cuidado personal",
+    "precio": 11.25,
+    "codigo_barras": "0123456789012",
+    "fecha_vencimiento": "2027-02-28",
+    "etiquetas": ["antiséptico", "spray", "sin receta"]
+  }
+]
+

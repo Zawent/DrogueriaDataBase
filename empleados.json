@@ -1,0 +1,73 @@
+[
+  {
+    "nombre": "María Gómez",
+    "correo": "maria.gomez@drogueria.com",
+    "cargo": "Vendedor",
+    "turno": "Mañana",
+    "sucursal": "Sucursal Norte"
+  },
+  {
+    "nombre": "Juan Torres",
+    "correo": "juan.torres@drogueria.com",
+    "cargo": "Administrador",
+    "turno": "Tarde",
+    "sucursal": "Sucursal Centro"
+  },
+  {
+    "nombre": "Paola Ruiz",
+    "correo": "paola.ruiz@drogueria.com",
+    "cargo": "Vendedor",
+    "turno": "Noche",
+    "sucursal": "Sucursal Sur"
+  },
+  {
+    "nombre": "Carlos Medina",
+    "correo": "carlos.medina@drogueria.com",
+    "cargo": "Auxiliar",
+    "turno": "Mañana",
+    "sucursal": "Sucursal Norte"
+  },
+  {
+    "nombre": "Laura Díaz",
+    "correo": "laura.diaz@drogueria.com",
+    "cargo": "Vendedor",
+    "turno": "Tarde",
+    "sucursal": "Sucursal Centro"
+  },
+  {
+    "nombre": "Andrés Ramírez",
+    "correo": "andres.ramirez@drogueria.com",
+    "cargo": "Administrador",
+    "turno": "Mañana",
+    "sucursal": "Sucursal Sur"
+  },
+  {
+    "nombre": "Sofía Herrera",
+    "correo": "sofia.herrera@drogueria.com",
+    "cargo": "Auxiliar",
+    "turno": "Noche",
+    "sucursal": "Sucursal Norte"
+  },
+  {
+    "nombre": "Diego Morales",
+    "correo": "diego.morales@drogueria.com",
+    "cargo": "Vendedor",
+    "turno": "Mañana",
+    "sucursal": "Sucursal Centro"
+  },
+  {
+    "nombre": "Carolina Vargas",
+    "correo": "carolina.vargas@drogueria.com",
+    "cargo": "Vendedor",
+    "turno": "Tarde",
+    "sucursal": "Sucursal Sur"
+  },
+  {
+    "nombre": "Ricardo Salazar",
+    "correo": "ricardo.salazar@drogueria.com",
+    "cargo": "Administrador",
+    "turno": "Noche",
+    "sucursal": "Sucursal Norte"
+  }
+]
+
